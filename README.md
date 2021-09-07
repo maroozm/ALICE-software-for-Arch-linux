@@ -1,4 +1,4 @@
-# ALICE-software-for-Arch-linux
+# BUILD ALICE software for Arch linux
 
 These are the prerequisites to build ALICE software framework with **ROOTv6** and has been tested on *Manjaro Linux* and *Endeavour OS*. 
 
