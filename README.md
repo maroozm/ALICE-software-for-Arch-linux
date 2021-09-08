@@ -13,5 +13,3 @@ These packages are enough. But if you can find any other package that is still m
 After installing the prerequisites, you can go to the alibuild page and install it via pip. The commands after this will ofcourse be the same as mentioned here:
 https://alice-doc.github.io/alice-analysis-tutorial/building/custom.html
 
-google-site-verification: google1fa52fa53d0080bc.html
-
